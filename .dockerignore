@@ -1,0 +1,9 @@
+.vscode
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+yarn-debug.log
+README.md
+build
+.git
